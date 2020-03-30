@@ -1,11 +1,11 @@
 This is a Markdown Cheatsheet
 <!--Headings-->
-#Heading 1
-##Heading 2
-###Heading 3
-####Heading 4
-#####Heading 5
-######Heading 6
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 <!--Italics-->
 *Italic*
 <!--Bold-->
@@ -22,7 +22,7 @@ ___
 <!--Link-->
 [Github](github.com/charitarthchugh)
 
-[Github](github.com/charitarthhchugh "Charitarth's Github") 
+[Github](github.com/charitarthhchugh "Charitarth's Github")
 <!--Bullet-->
 * Item 1
 * Item 2
@@ -49,5 +49,3 @@ x++;
 *[x] 1
 *[x] 2
 *[ ] 3
-
-
