@@ -17,7 +17,6 @@ This is __Bold__
 ~~Strikethrough~~
 <!--Horizontal Line-->
 ---
-___
 <!--Blockquote-->
 >This is a Quote
 <!--Link-->
